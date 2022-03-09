@@ -1,6 +1,6 @@
 [![Django-app workflow](https://github.com/DeffronMax/yamdb_final/actions/workflows/main.yml/badge.svg)](https://github.com/ant0ndk/yamdb_final/actions/workflows/main.yml)
 
-## _Учебный проект 15 спринта факультета Python-разработчик Яндекс.Практикум_
+## _Учебный проект 13 спринта факультета Python-разработчик Яндекс.Практикум_
 
 ## Стек
  - Python
